@@ -1,6 +1,6 @@
 {
-    "name": "nullaidev/vista",
-    "description": "Vista view render engine.",
+    "name": "nullaidev/hygiene",
+    "description": "Hygiene is a HTML sanitizer.",
     "license": "MIT",
     "require": {
         "php": ">=8.4",
